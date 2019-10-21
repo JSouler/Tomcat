@@ -1,2 +1,2 @@
-# Tomcat
-windows 安装与idea配置Tomcat
+# Web
+windows 安装配置JDK、Tomcat、Idea.
